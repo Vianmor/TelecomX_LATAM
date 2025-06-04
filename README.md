@@ -1,3 +1,5 @@
+![red_latam](https://github.com/user-attachments/assets/eb8da415-eada-46b3-9d6e-abdc43683085)
+
 # **TelecomX_LATAM**
 **Análisis de Evasión de Clientes**
 
